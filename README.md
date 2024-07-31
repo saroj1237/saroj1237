@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saroj Basnet</h1>
 <h3 align="center">A passionate frontend and Mobile App developer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saroj1237" alt="saroj1237" /></a> </p>
-
 - 📫 How to reach me **saroj.basnet1237@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
